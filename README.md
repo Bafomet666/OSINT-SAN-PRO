@@ -41,3 +41,19 @@ The name of the API and the sites to get them.
   sudo pip3 install -r requerements.txt
 
   In complex modules, you will be presented with the choice of additional installation of modules.
+  
+  
+  
+Using:
+
+Run with the command: python3 osintsan.py
+
+The password and login are stored in our public telegram.
+
+The tools run in two modes:
+
+If you want non-root functions [They are in green line], run a terminal: python3 osintsan.py
+  
+If you need root functions [They are green red], run a terminal: sudo python3 osintsan.py
+
+Official public https://t.me/osint_san_framework
