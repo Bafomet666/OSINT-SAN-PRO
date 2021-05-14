@@ -56,15 +56,49 @@ Framework направленный на получение данных и де�
 
 IP and domian геолокация + whois с 4 ресурсов.
 
-![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/05-01.png)
-
-
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/05-02.png)
+
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/05-01.png)
 
 ----
 
 Функция номер 6.
 
-Проверка того что загружает жертва в данный момент.
+Проверка того что загружает жертва в данный момент c torrent.
 
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/06.png)
+
+----
+
+Функция номер 7.
+
+Стандартный сбор данных о DNS ( Возможно изменим эту функцию, под вопросом )
+
+----
+
+Функция номер 8.
+
+Проверка IP в на использование proxy и проверка в спам базах.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/08.png)
+
+----
+
+Функция номер 9.
+
+Сбор данных и истории доменного имени.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/09-02.png)
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/09-01.png)
+
+----
+
+Функция номер 10.
+
+Сканирование сайта и сбор данных и создателях либо сотрудниках.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/10.png)
+
+
