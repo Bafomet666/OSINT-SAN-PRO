@@ -17,7 +17,9 @@ Framework направленный на получение данных и де�
 
 ----
 
-Первая функция это сканирование в shodan and censys.
+Первый обзац функций, это работа с IP address и domain
+
+Функция номер 1, сканирование в shodan and censys.
 
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/01%20%D0%A1%D0%BA%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20Shodan%20%D0%B8%20Censys.png)
 
@@ -94,6 +96,10 @@ IP and domian геолокация + whois с 4 ресурсов.
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/09-01.png)
 
 ----
+
+
+
+Второй обзац, @mail почта и мобильные номера GSM
 
 Функция номер 10.
 
