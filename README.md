@@ -100,8 +100,6 @@ IP and domian геолокация + whois с 4 ресурсов.
 
 ----
 
-
-
 #### Второй обзац, @mail почта и мобильные номера GSM
 
 Функция номер 10.
@@ -110,4 +108,41 @@ IP and domian геолокация + whois с 4 ресурсов.
 
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-Framework/blob/main/screen/10.png)
 
+----
 
+Функция номер 11.
+
+Поиск информации по номеру телефона. То что сейчас вы видите, будет изменено полностью к 25 мая.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/11-01.png)
+
+Функция номер 12.
+
+Поиск вашего пароля в актуальных утечках. Поиск по базам данных
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/12-01.png)
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/12-02.png)
+
+----
+
+Функция номер 13.
+
+Проверка уровня репутации @mail ящика.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/13.png)
+
+----
+
+Функция номер 14.
+
+Подключение через android debug bridge. Просьба если вы не знаете что это, прогуглите не поленитесь
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/14.png)
+
+
+Функция номер 15.
+
+Big brother 10, получение геолокации, фото с любой камеры, либо запись с микрафона, работает через ngrok, получение происходит путем взаимодействия жертвы с вашем сайтом.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/15.png)
