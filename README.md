@@ -230,7 +230,47 @@ OSINT - Википедия, собрано большое количество �
 
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/25.png)
 
+----
 
+Функция номер 26.
 
+Сбор данных по bitcoin адресу, все транзакции с сохранение в csv
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/26-01.png)
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/26-02.png)
+
+----
+
+Функция номер 27.
+
+Поиск информации об автомобиле. Реализован частично
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/27.png)
+
+----
+
+Функция номер 28.
+
+Поиск по нику maigret
+
+Автор soxoj https://github.com/soxoj/maigret
+
+----
+
+Функция номер 29.
+
+Вы можете проверить куда ведет сокращенная ссылка.
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/29.png)
+
+----
+
+Функция номер 30.
+
+Генерация рандомной личности.
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/30-01.png)
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/30-02.png)
+
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/30-03.png)
 
 
