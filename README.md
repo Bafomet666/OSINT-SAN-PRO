@@ -273,4 +273,23 @@ OSINT - Википедия, собрано большое количество �
 
 ![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/30-03.png)
 
+----
 
+Функция номер 31.
+
+Самые актуальные OSINT сообщества.
+
+----
+
+Функция номер 32.
+
+Книги и гайды по OSINT.
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/32.png)
+
+Функция номер 33.
+
+Первое это сбор proxy в 1 клик.
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/33-01.png)
+
+Огромный сборник паролей
+![alt tag](https://github.com/Bafomet666/OSINT-SAN-PRO/blob/main/screen/33-02.png)
