@@ -33,6 +33,7 @@ git clone
 sudo pip3 install -r requerements.txt
 
 sudo pip3 install python-vlc
+
 sudo apt-get install vlc
      
 
