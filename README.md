@@ -26,7 +26,7 @@ Telegram: https://t.me/osint_san_framework
 
      sudo apt install -y python3-pip
 
-git clone
+git clone https://github.com/Bafomet666/OSINT-SAN-PRO
 
 Далее установка зависимостей командой
 
